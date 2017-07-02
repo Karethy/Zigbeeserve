@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>CollectTem/Debug</Project><Project>Coordinator/Debug</Project><Project>EndDevice/Debug</Project></CurrentConfigs><CurrentProj>Coordinator</CurrentProj><OverviewSelected>1</OverviewSelected></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>344</Column0><Column1>30</Column1><Column2>27</Column2><Column3>0</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1212</ColumnWidth1><ColumnWidth2>323</ColumnWidth2><ColumnWidth3>80</ColumnWidth3></Build>
+    <TerminalIO/><Disassembly><MixedMode>1</MixedMode><CodeCovShow>1</CodeCovShow><InstrProfShow>1</InstrProfShow></Disassembly><Debug-Log><ColumnWidth0>23</ColumnWidth0><ColumnWidth1>947</ColumnWidth1></Debug-Log></Static>
+    <Windows>
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-5454-13888</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>&lt;ws></ExpandedNode><ExpandedNode>&lt;ws>/Coordinator</ExpandedNode><ExpandedNode>&lt;ws>/Coordinator/Output</ExpandedNode><ExpandedNode>&lt;ws>/Coordinator/RF_TR</ExpandedNode><ExpandedNode>&lt;ws>/Coordinator/SysSet</ExpandedNode><ExpandedNode>&lt;ws>/Coordinator/Uart</ExpandedNode><ExpandedNode>CollectTem</ExpandedNode><ExpandedNode>EndDevice</ExpandedNode><ExpandedNode>EndDevice/CollectTem</ExpandedNode><ExpandedNode>EndDevice/RF_TR</ExpandedNode><ExpandedNode>EndDevice/SysSet</ExpandedNode><ExpandedNode>EndDevice/Uart</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-9261-21594</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-31575-21977</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\CDMain.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>163</SelStart><SelEnd>163</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Uart.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>282</SelStart><SelEnd>282</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\RF_TR.c</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>886</SelStart><SelEnd>886</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SysSet.c</Filename><XPos>0</XPos><YPos>15</YPos><SelStart>340</SelStart><SelEnd>340</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SysSet.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>216</SelStart><SelEnd>223</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\CollectTem.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>68</SelStart><SelEnd>68</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\RF_TR.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>74</SelStart><SelEnd>74</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Uart.h</Filename><XPos>0</XPos><YPos>5</YPos><SelStart>109</SelStart><SelEnd>109</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\CollectTem.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>D:\Program Files (x86)\IAR Systems\Embedded Workbench 6.0 Evaluation\8051\inc\ioCC2530.h</Filename><XPos>0</XPos><YPos>115</YPos><SelStart>6793</SelStart><SelEnd>6793</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\EDMain.c</Filename><XPos>0</XPos><YPos>18</YPos><SelStart>886</SelStart><SelEnd>888</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-056109f0><key>iaridepm.enu1</key></Toolbar-056109f0></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>682</Bottom><Right>421</Right><x>-2</x><y>-2</y><xscreen>187</xscreen><yscreen>66</yscreen><sizeHorzCX>97396</sizeHorzCX><sizeHorzCY>66199</sizeHorzCY><sizeVertCX>220313</sizeVertCX><sizeVertCY>686058</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>270</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>272</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>272818</sizeHorzCY><sizeVertCX>97396</sizeVertCX><sizeVertCY>66199</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+

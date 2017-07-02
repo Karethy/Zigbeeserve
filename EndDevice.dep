@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2977044110</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\Uart.c</file>
+      <file>$PROJ_DIR$\Uart.h</file>
+      <file>$PROJ_DIR$\Time.h</file>
+      <file>$PROJ_DIR$\CollectTem.h</file>
+      <file>$PROJ_DIR$\CollectTem.c</file>
+      <file>$PROJ_DIR$\SysSet.c</file>
+      <file>$PROJ_DIR$\SysSet.h</file>
+      <file>$PROJ_DIR$\RF_TR.h</file>
+      <file>$PROJ_DIR$\RF_TR.c</file>
+      <file>$PROJ_DIR$\Time.c</file>
+      <file>$PROJ_DIR$\Debug\Obj\Time.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdarg.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\SysSet.r51</file>
+      <file>$TOOLKIT_DIR$\config\devices\Texas Instruments\lnk51ew_cc2531F256_banked.xcl</file>
+      <file>$PROJ_DIR$\Debug\Obj\EDMain.pbi</file>
+      <file>$TOOLKIT_DIR$\inc\clib\string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\CollectTem.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\EDMain.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\Uart.r51</file>
+      <file>$TOOLKIT_DIR$\inc\ioCC2530.h</file>
+      <file>$TOOLKIT_DIR$\inc\clib\sysmac.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\EndDevice.pbd</file>
+      <file>$PROJ_DIR$\Debug\Obj\RF_TR.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\CollectTem.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Uart.pbi</file>
+      <file>$TOOLKIT_DIR$\lib\clib\cl-pli-blxd-1e16x01.r51</file>
+      <file>$PROJ_DIR$\Debug\Obj\SysSet.pbi</file>
+      <file>$PROJ_DIR$\EDMain.c</file>
+      <file>$PROJ_DIR$\Debug\Exe\EndDevice.d51</file>
+      <file>$TOOLKIT_DIR$\inc\clib\stdio.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\RF_TR.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\Time.r51</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Uart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 18</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1 19 6 29 11 20 15</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 1 19 6 29 11 20 15</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\CollectTem.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 16</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3 19 6 29 11 20 15</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 3 19 6 29 11 20 15</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\SysSet.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 26</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 12</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 6 19 29 11 20 15</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 6 19 29 11 20 15</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\RF_TR.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 7 19 6 29 11 20 15</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 7 19 6 29 11 20 15</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Time.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 31</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 2 19 29 11 20 15</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 2 19 29 11 20 15</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Obj\EndDevice.pbd</name>
+      <inputs>
+        <tool>
+          <name>BILINK</name>
+          <file> 23 14 30 26 10 24</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\EDMain.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 17</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 3 19 6 29 11 20 15 7</file>
+        </tool>
+        <tool>
+          <name>ICC8051</name>
+          <file> 3 19 6 29 11 20 15 7</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\EndDevice.d51</name>
+      <inputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 13 16 17 22 12 31 18 25</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>XLINK</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
